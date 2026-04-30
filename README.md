@@ -33,4 +33,4 @@ Currently building Python automation tools for hardware validation and test engi
 
 ## Contact
 📧 anupamasureshkp@gmail.com
-🔗 LinkedIn
+🔗 www.linkedin.com/in/anupama-suresh
